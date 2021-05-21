@@ -5,7 +5,7 @@
  * @file    MODULO_END_NODE_LORA.cpp
  * @date    20 Nov 2020
  *
- * Código desenvolvido para protótipo utilizado no trabalho de conclusão de curso entitulado
+ * Código desenvolvido para protótipo utilizado no trabalho de conclusão de curso intitulado
  * DESENVOLVIMENTO DE UM MÓDULO PROGRAMAVEL IOT COM TECNOLOGIA LORA
  * 
  * Realiza leitura de temperatura, umidade e pressao do sensor BME280 e envia valores via LoRa

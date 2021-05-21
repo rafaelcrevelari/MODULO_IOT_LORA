@@ -5,7 +5,7 @@
  * @file    LORA_GATEWAY_ESP32.cpp
  * @date    20 Nov 2020
  *
- * Código desenvolvido para protótipo utilizado no trabalho de conclusão de curso entitulado
+ * Código desenvolvido para protótipo utilizado no trabalho de conclusão de curso intitulado
  * DESENVOLVIMENTO DE UM MÓDULO PROGRAMAVEL IOT COM TECNOLOGIA LORA
  * 
  * Verifica recepcao de pacotes LoRa pelo modulo RFM95W, formata dados para JSON e realiza post HTTPS para plataforma TagoIO
@@ -79,7 +79,7 @@ portMUX_TYPE    myMutex           = portMUX_INITIALIZER_UNLOCKED;
 QueueHandle_t   xSensorQueue        = NULL;
 
 /* HTTP ---------------------------------------------------------------*/
-//String          apiKey            = ""; 
+//String          apiKey            = " "; 
 //const char*     server            = "api.tago.io";
 
 String          apiKey            = " "; 
