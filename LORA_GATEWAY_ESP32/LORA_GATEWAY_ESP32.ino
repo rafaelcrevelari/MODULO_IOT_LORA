@@ -79,9 +79,6 @@ portMUX_TYPE    myMutex           = portMUX_INITIALIZER_UNLOCKED;
 QueueHandle_t   xSensorQueue        = NULL;
 
 /* HTTP ---------------------------------------------------------------*/
-//String          apiKey            = " "; 
-//const char*     server            = "api.tago.io";
-
 String          apiKey            = " "; 
 const char*     server            = "api.tago.io";
 
